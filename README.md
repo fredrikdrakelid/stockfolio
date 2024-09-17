@@ -1,5 +1,13 @@
-# Vue 3 + Vite
+# STOCK PORTFOLIO APP
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This application is a stock portfolio management tool developed with Vue.js. It allows users to manage their stock investments, track stock prices, and visualize the performance of their portfolio.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Technologies Used in the Stock Portfolio:
+- Vue.js
+- Vite
+- Vue Router
+- Axios
+- Chart.js
+- Node.js & npm
+- ESLint
+- Sass
